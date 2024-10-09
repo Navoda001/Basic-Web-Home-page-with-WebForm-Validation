@@ -13,3 +13,5 @@ This project is a web page created for the "Web Design for Beginners" certificat
 - **HTML** - Structure of the web page.
 - **CSS** - Styling, layout design, and animations.
 - **JavaScript** - Form validation and interactive elements.
+
+<img src="https://github.com/Navoda001/Basic-Web-Home-page-with-WebForm-Validation/blob/main/pic/Web%20page%20Screenshot.png" width="80%" height="100%">
